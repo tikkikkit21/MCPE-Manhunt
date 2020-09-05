@@ -1,0 +1,16 @@
+{
+"format_version": 2,
+"header": {
+	"description": "Dream's viral series brought to Pocket Edition",
+	"name": "Manhunt",
+	"uuid": "92d098d6-1742-4751-9473-8ac913f05323",
+	"version": [0,0,1],
+	"min_engine_version": [1,16,20]
+},
+"modules": {
+		"description": "",
+		"type": "data",
+		"uuid": "d7719b99-dee1-4e06-b4cb-57b5e68634d1",
+		"version": [0,0,1]
+	}
+}

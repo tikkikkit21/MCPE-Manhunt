@@ -1,0 +1,25 @@
+----------Target Selectors
+@r = random player
+@e = all entities
+@a = all players
+@s = yourself
+@p = nearest player
+
+arguments in brackets filters targets (eg. "@a[type=enderman]" refers to all enderman)
+
+----------Text Modifiers
+§ indicates color or font changer. Refer to https://minecraftonline.com/wiki/Colour_Codes for key
+
+----------FUNCTIONS
+scoreboard players set <player: targets> <objective: string> <count: int>
+scoreboard objectives add <objective> <criteria> [displayName]
+effect <player> <effect> [seconds] [amplifier] [hideParticles]
+
+testfor @p {Inventory:[{id:"minecraft:arrow"}]} -> checks for item in target inventory 
+
+
+
+
+
+
+player.json in animation_control runs files
