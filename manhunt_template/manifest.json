@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Addon By §eAliom§r\n§fmcpedl.com/minecraft-manhunt/§r\nVersion: 2.3.0",
+        "name": "Minecraft Manhunt",
+        "uuid": "1340e32a-ccf2-4f2f-b84d-c6bf3a6795b6",
+        "version": [ 2, 3, 1 ],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "a5684d11-d349-4d74-9343-36194e8e75cb",
+            "version": [0, 0, 1]
+        }
+    ],
+    "subpacks": [
+        {
+          "folder_name": "competitive_manhunt_pack",
+          "name": "§cCompetitive Manhunt (Beta)",
+          "memory_tier": 2
+        },
+        {
+          "folder_name": "normal_manhunt_pack",
+          "name": "§6Normal Minecraft Manhunt",
+          "memory_tier": 1
+        }
+      ]
+}

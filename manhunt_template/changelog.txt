@@ -1,0 +1,33 @@
+Changelog of Minecraft Manhunt
+
+Version: 2.3.0
+
+Changes: 
+
+Fixed 2 bugs we have discovered:
+
+Hunters don't have a compass when the game starts in v2.2 and it's fixed.
+
+Zero speedrunners at one game and it has been fixed.
+
+Featuring in both resolutions:
+
+Limited to only 1 speedrunner at the game while the other one gets disqualified.
+
+Note:
+
+We updated this addon runs above 1.16
+
+You cannot track more than one person in this version, if you track multiple players, the game will select from one of them.
+
+Copyright:
+
+Addon created by: Aliom, skybird2333 and ItsMeJacob21
+
+Aliom: Fix bugs, suggestions from mcpedl platform and glitches in all versions.
+
+skybird2333: Creating guides and co-dev of the addon.
+
+ItsMeJacob21: Font designer on the logo.
+
+If you use our addon, please make sure to credit the addon [ https://mcpedl.com/minecraft-manhunt/ ] and please do not use the thumbnail on the addon page as your video thumbnail.
